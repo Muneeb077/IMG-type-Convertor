@@ -10,7 +10,7 @@ The script performs the following tasks:
 
 - Checks if the output folder exists. If not, it creates the folder.
 - Iterates through the specified image folder.
-- Converts each JPEG image to PNG format.
+- Converts each JPEG image to any image format.
 - Saves the converted images in the output folder.
 
 ## Note:
